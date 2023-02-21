@@ -1,0 +1,241 @@
+table,td{
+    border:1px solid red;
+    border-spacing:0px;
+    color:navy;
+    font-size:12px;
+    vertical-align: bottom;
+
+
+}
+.center{
+margin-left:auto;
+margin-right:auto
+}
+
+table{
+	border: 0;
+   height:960px;
+   width: 960px;
+}
+.mainimg{
+	width: 100%;
+	}
+.td-width{
+	width: 147px;
+	height: 120px; 
+	font-size: 50px;
+	text-align: right;
+	font-weight: 800;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	color: darkblue ;
+}
+
+
+.red{
+	color: rgb(252, 3, 3);
+	text-align: right;
+
+}
+.bgcolor{
+	background-color: rgb(75, 80, 128);
+	 color:white;
+    text-align: center;
+    font-size:43px;
+    width:70px;
+    border:1px solid white;
+    border-top:1px solid white;
+    border-bottom:1px solid white;
+    border-left:1px solid white;
+     border-right: 2px solid white;
+}
+.bgcolor2{
+	background-color:rgb(252, 3, 3);
+	 color:white;
+    text-align: center;
+    font-size:43px;
+    width:70px;
+    border:1px solid white;
+    border-top:0px solid white;
+    border-bottom:1px solid white;
+    border-left:1px solid white;
+    border-right: 2px solid white;
+  
+}
+.days{
+    position:absolute;
+    top:40%;
+    left:50%;
+    transform:translate(-50%,-50%)
+}
+
+
+
+
+.january{
+	border: 1px solid white;
+	background-color: rgb(241, 188, 245);
+	color: darkblue;
+	font-weight: 600;
+	text-align: center;
+	font-size: 40px;
+	padding:  5px 20px 15px 20px;
+	border-bottom: 4px solid white;
+	
+}
+.paush{
+	border: 1px solid white;
+	background-color: skyblue;
+	color: darkblue;
+	font-weight: 600;
+	text-align: center;
+	font-size: 20px;
+	padding: 2px 10px 15px 10px;
+	border-bottom:4px solid white;
+}
+.new{
+	border: 1px solid white;
+	background-color: rgb(125, 17, 103);
+	color: white;
+	font-weight: 600;
+	text-align: center;
+	font-size: 35px;
+	padding:  2px 10px 15px 10px;
+	border-bottom: 4px solid white;
+}
+.yellow{
+	border: 2px solid white;
+	background-color: yellow;
+	color: black;
+	text-align: center;
+	font-weight: 800;
+	font-size: 60px;
+	padding:  2px 10px 15px 10px;
+	border-bottom: 4px solid white;
+}
+.img{
+	height: 117px;
+	width: 117px;
+} 
+.span{
+	background-color: gray;
+    color:white;
+    width:100%;
+    height: 25px;
+    font-size:14px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    vertical-align: bottom; 
+   /* padding-top: 5px;*/
+}
+.temp{
+	  border-left:0 ;
+	  border-bottom: 0;
+	  border-right: 0;
+	  border-top: 2px solid white;
+	  border-left: 2px solid white;
+}
+.dec{
+	height: 15px;
+	  width: 30px;
+	  color: skyblue;
+}
+.dec td, th{
+	font-size: 10px;
+	border: 1px solid rgb(242, 158, 155);
+	border-collapse: collapse;
+	height: 15px;
+	background-color: lightyellow;
+    text-align: right;
+    width: 30px;
+}
+
+
+.temp1{
+   border-left:0 ;
+	  border-bottom: 0;
+	  border-right: 0;
+	  border-top: 2px solid white;
+	  border-left: 2px solid white;	  
+
+}
+.feb{
+	 height: 15px;
+	  width: 30px;
+	  color: skyblue;
+}
+.feb td, th{
+	font-size: 10px;
+	border: 1px solid rgb(242, 158, 155);
+	border-collapse: collapse;
+	height: 15px;
+	background-color: lightyellow;
+    text-align: right;
+    width: 30px;
+}
+
+
+.december{
+	background-color: red;
+	color: white;
+	font-size: 13px;
+
+	
+	
+}
+.feb2{
+	background-color: red;
+	color: white;
+	font-size: 13px;
+
+}
+.phino{
+    text-align: center;
+    background-color: yellow;
+    font-size:22px;
+    color:darkblue;
+   /* padding :50px 7px;*/
+    font-weight: 900 ;
+    vertical-align: middle;
+}
+.span2{
+	
+	color: red;
+	line-height: 23px;
+	font-size: 15px;
+}
+.color{
+	background-color:rgb(245, 175, 12);
+	border-right: 2px solid white;
+	width: 100px;
+	border-left: 2px solid white;
+	border-top: 0px solid white;
+}
+td .price{
+    display:block;
+    color:red;
+    background-color:yellow;
+    width:100%;
+    height:24px;
+    text-align: center;
+    font-size:15px;
+    padding-top:4px;
+
+}
+.footer img{
+	width: 100%;
+}
+.footer{
+	border: none;
+}
+.specicolor
+{
+	background-color: rgb(240, 167, 250);
+}
+
+.specicolor2
+{
+	background-color: rgb(176, 186, 247);
+}
